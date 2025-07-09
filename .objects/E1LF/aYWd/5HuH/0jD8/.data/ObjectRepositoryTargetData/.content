@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tmSz3FYAsUC1n8Pz8dFHjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="buscacepinter.correios.com.br/app/endereco/index.php" DesignTimeRectangle="25, 471, 305, 113" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='captcha_image' tag='IMG' /&gt;" Guid="14634bba-c3fb-4ea0-8c2c-6cb0bcaccf62" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Busca CEP' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b844cff30632db2b297ff6f73e55213f.png" xmlns="">01jMKpxi7gk6rLBxlvKtE_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
